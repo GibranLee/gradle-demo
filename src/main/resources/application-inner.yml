@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    #驱动
+    driver-class-name: org.h2.Driver
